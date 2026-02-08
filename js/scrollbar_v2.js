@@ -14,7 +14,6 @@ export default class bar {
 		this.deviation = deviation;
 		this.currentDeviation = '';
 		this.deploy();
-		// console.log(`Barra desplegada para ${scrollableContent}`);
 		
 	}
 	deploy(){

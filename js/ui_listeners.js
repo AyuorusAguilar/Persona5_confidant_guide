@@ -49,7 +49,6 @@ const observer = new IntersectionObserver( (listaDeObjetosAObservar) => {
 		if (objeto.isIntersecting) {
 			const rango = objeto.target.querySelector('.rank').textContent.slice(-1);
 			textRankCounter.textContent = rango
-			console.log(`Nos encontramos en el rango ${state.current_rank}`);
 		}
 	}, {root: contentBodyMirror, threshold: 0.5, rootMargin: '100px 0px 100px 0px'})
 })
