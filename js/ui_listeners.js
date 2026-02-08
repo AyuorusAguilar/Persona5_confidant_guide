@@ -1,5 +1,5 @@
 import generate_content from "./generate_content.js";
-import {state} from "/js/state.js"
+import {state} from "./js/state.js"
 const tarjetas = document.querySelectorAll('.confidant-card');
 const uiHover = document.getElementById('ui-hover');
 const uiClick = document.getElementById('ui-click');
