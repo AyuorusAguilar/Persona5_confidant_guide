@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/general.css">
+	<link rel="icon" href="img/fav.png">
+	<title>Person five</title>
+</head>
+<body>
+	<div class="main-window">
+		<div class="main-header">
+			<div class="confidants-row">
+			</div>
+			<div class="custom-scrollbar-container">
+				<svg viewbox="0 0 740 55" class="custom-scrollbar-background">
+					<path d="M 8 20 L 733 17 L 694 41 L 19 52 L 8 20"></path>
+				</svg> 
+				<svg viewBox="0 0 340 60" class="custom-scrollbar">
+					<path d="M 22 19 L 312 16 L 331 55 L 15 45 Z "></path>
+				</svg>
+			</div>
+		</div>
+		<div class="main-body">
+			<svg viewBox="0 0 1200 460" class="confidant-text-box">
+				<path d="M 252 5 L 1005 60 L 1115 457 L 106 457 Z"></path>
+			</svg>
+			<svg viewBox="0 0 200 1000" class="confidant-scroll-bg">
+				<path d="M 58 37 L 132 68 L 172 898 L 108 942 Z"></path>
+			</svg>
+			<svg viewBox="0 0 200 500" class="confidant-scroll-thumb">
+				<path d="M 53 101 L 116 29 L 166 487 L 71 420 Z"></path>
+			</svg>
+			<div class="rank-counter-container">
+				<svg viewBox="0 0 25 17" class="rank-svg">
+					<path d="M 8 2 L 25 0 L 20 15 L 2 16 Z"></path>
+				</svg>
+				<div class="rank-counter-text">2</div>
+			</div>
+			<div class="confidant-content confidant-content-transformation">
+				<div class="toggle-header-container disable">
+					<p class="toggle-header-sign">&minus;</p>
+				</div>
+				<div class="content-header-a" id = "contentHeader">
+					<div class="content-pfp-container">
+					</div>
+					<div class="content-info-container">
+						<div class="content-info">
+						</div>
+					</div>
+				</div>
+				<!-- <div class="content-header-b">
+					<div class="content-pfp-container">
+						<img src="img/confidant-portraits/confidant-definitve/names/Ryuji.png" class="content-name cn-top">
+					</div>
+				</div> -->
+				<div class="content-body">
+					<div class="centered">	
+						<div class="margined">Please select a confidant</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="content-body mirror"></div>
+	</div>
+	<audio src="sounds/ui_hover.wav" id="ui-hover"></audio>
+	<audio src="sounds/confidant-select-4.wav" id="ui-click"></audio>
+	<script src="script.js" type="module"></script>
+</body>
+</html>

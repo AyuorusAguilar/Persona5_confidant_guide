@@ -1,0 +1,3074 @@
+{
+	"Ryuji Sakamoto" : {
+		"unlockDate" : "Automatically on April 12th",
+		"arcana" : "Chariot",
+		"ranks": {
+			"2" : {
+				"unlocks": "Punk Talk",
+				"description": "Joker can try a second time if negotiations with an upbeat shadow are unsuccessful",
+				"entries": [
+					{
+						"question": "Plus, maybe then I'll be able to help out a little more.",
+						"answer" : "I'm counting on you."
+					},
+					{
+						"question": "If my time dropped even a little, he'd cuss me out. Then on top of that...",
+						"answer" : "Any"
+					},
+					{
+						"question": "......",
+						"answer" : "Any"
+					},
+					{
+						"question": "Ugh... I should've kept up my running.",
+						"answer" : "Any"
+					}
+				]
+			},
+			"3" : {
+				"unlocks": "Follow Up",
+				"description": "If Joker's attack fails to down an enemy, Ryuji may follow up with a second attack to try again to down said enemy",
+				"entries": [
+					{
+						"question": "......",
+						"answer" : "Let's not fight."
+					},
+					{
+						"question": "That don't got anything to do with this...",
+						"answer" : "Calm down, Ryuji."
+					},
+					{
+						"question": "I get pissed off so damn easily. I really gotta work on that.",
+						"answer" : "I can't exactly blame you."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Stealth Dash",
+				"description": "The group is less likely to be spotted while Dashing in the Metaverse",
+				"entries": [
+					{
+						"question": "But for some reason it don't look like he's gettin' along...",
+						"answer": "Are you worried about him?"
+					},
+					{
+						"question": "It's good they're keepin' their heads low now though...",
+						"answer": "But you're doing great."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Oh yeah! You bring your stuff?",
+						"answer": "Protein powder?"
+					},
+					{
+						"question": "... Good for them.",
+						"answer": "You seem conflicted."
+					},
+					{
+						"question": "But I'm still worried 'bout their advisor, Yamauchi...",
+						"answer": "So he's an asshole?"
+					},
+					{
+						"question": "But I mean, if anything happens, I know you got my back...",
+						"answer": "Don't worry. I gotcha."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Harisen Recovery",
+				"description": "Ryuji may cure the party's status ailments",
+				"entries": [
+					{
+						"question": "You got any ideas?",
+						"answer": "We can train at my place."
+					},
+					{
+						"question": "Huh? That's a load of bull!",
+						"answer": "You guys should trust Nakaoka."
+					},
+					{
+						"question": "You get what I'm tryin' to say, yeah?",
+						"answer": "Absolutely."
+					},
+					{
+						"question": "It's like how I feel when I'm talkin' to you, man.",
+						"answer": "Any"
+					},
+					{
+						"question": "Uhhh, I don't know how else to explain. I just feel...free.",
+						"answer": "Any"
+					},
+					{
+						"question": "And Nakaoka can get weirdly stubborn sometimes...",
+						"answer": "So he should've punched back?"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Insta-Kill",
+				"description": "You now have the chance to instantly defeat any shadow weaker than yourself without even having to fight them by dashing into them",
+				"entries": [
+					{
+						"question": "If we don't do something quick, Yamauchi's gonna...",
+						"answer": "Let's talk to Takeishi."
+					},
+					{
+						"question": "I know that ain't the coolest thing to say, but it's how I feel.",
+						"answer": "I think it's cool, Ryuji."
+					},
+					{
+						"question": "Besides... I doubt those guys are gonna listen to anything I say...",
+						"answer": "Never know until you try."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Ryuji may now survive an otherwise-fatal attack with 1HP remaining",
+				"entries": [
+					{
+						"question": "So, I called Nakaoka and Takeishi over here...",
+						"answer": "Any"
+					},
+					{
+						"question": "You saw that, right? That was some serious violence!",
+						"answer": "Things turned out for the best."
+					},
+					{
+						"question": "... Thanks.",
+						"answer": "All I did was watch."
+					},
+					{
+						"question": "It's kinda like I was doin' a sprint... and you were runnin' next to me.",
+						"answer": "You weren't cool though."
+					},
+					{
+						"question": "Seein' them havin' a real heart-to-heart talk... They got a good team.",
+						"answer": "So. Case closed?"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Protect",
+				"description": "Ryuji may jump in and take an otherwise-fatal attack for Joker",
+				"entries": [
+					{
+						"question": "Looks like they're finally walkin' their own path.",
+						"answer": "Are you satisfied now?"
+					},
+					{
+						"question": "Oh, and uh... they asked me to come back to the team.",
+						"answer": "Don't do it."
+					},
+					{
+						"question": "Wherever you decide to be, that's where you belong.",
+						"answer": "You're right."
+					},
+					{
+						"question": "... I'm just glad I found it.",
+						"answer": "I agree."
+					},
+					{
+						"question": "They're apparently keepin' Yamauchi as their advisor for now...",
+						"answer": "Better watch out for them."
+					}
+				]
+			}
+		}
+	},
+	"Ann Takamaki": {
+		"unlockDate": "Automatically on April 15th",
+		"arcana": "Lovers",
+		"ranks": {
+			"2": {
+				"unlocks": "Girl Talk",
+				"description": "Ann can step in and help if negotiations with a female shadow go poorly",
+				"entries": [
+					{
+						"question": "So, I apologized as well.",
+						"answer": "She's so strong."
+					},
+					{
+						"question": "... But in the end, maybe I just didn't believe in her ability.",
+						"answer": "You might be right."
+					},
+					{
+						"question": "... Thanks.",
+						"answer": "I couldn't just ignore you."
+					},
+					{
+						"question": "I can't just let things stay the way they are.",
+						"answer": "Let's find it together."
+					},
+					{
+						"question": "I hope you'll join me again next time!",
+						"answer": "Leave it to me."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Follow Up",
+				"description": "If Joker's attack doesn't down the enemy, Ann might follow Joker's turn up with a second attack",
+				"entries": [
+					{
+						"question": "Well, I came up with a way to do it!",
+						"answer": "Any"
+					},
+					{
+						"question": "So basically, I want you to say stuff to me, and I'll try not to get fazed by it!",
+						"answer": "Any"
+					},
+					{
+						"question": "C'mon, hit me with your best shot!",
+						"answer": "Any"
+					},
+					{
+						"question": "Yeah, yeah, yeah! And?",
+						"answer": "Any"
+					},
+					{
+						"question": "Uh-huh, uh-huh. What else?",
+						"answer": "Can we stop yet?"
+					},
+					{
+						"question": "Bring it on!",
+						"answer": "Any"
+					},
+					{
+						"question": "You know... I kinda feel like this won't make our Personas stronger.",
+						"answer": "Any"
+					},
+					{
+						"question": "It sounds like shoots have been real hectic...",
+						"answer": "Has that happened to you?"
+					},
+					{
+						"question": "... Maybe less these days.",
+						"answer": "That freedom sounds nice."
+					},
+					{
+						"question": "She had to have seen me, right? Do you think she thought I was cool...?",
+						"answer": "Could be."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Sexy Technique",
+				"description": "Steals the attention of an enemy and has the chance to cancel their upcoming action",
+				"entries": [
+					{
+						"question": "It has everything... but it feels like I can't understand any of it.",
+						"answer": "I know what you mean."
+					},
+					{
+						"question": "But that was when Shiho talked to me. The first thing she said was...",
+						"answer": "That's hilarious."
+					},
+					{
+						"question": "About that female thief in the anime I used to watch?...",
+						"answer": "Tell me."
+					},
+					{
+						"question": "And that's why I'm going to try and learn from them!",
+						"answer": "Good idea."
+					},
+					{
+						"question": "I'm gonna star in action movies!",
+						"answer": "Good luck with that."
+					},
+					{
+						"question": "Do you do anything to train your body?",
+						"answer": "I carry Morgana in my bag."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Crocodile Tears",
+				"description": "Shadows might ask for less during their negotiations",
+				"entries": [
+					{
+						"question": "Do you think maybe Shiho would want one too?",
+						"answer": "Give it up."
+					},
+					{
+						"question": "I really screwed that up...",
+						"answer": "She's amazing, huh..."
+					},
+					{
+						"question": "But still, wasn't Mika's fake crying pretty incredible?",
+						"answer": "It had grace."
+					},
+					{
+						"question": "I-I dunno though, I think I'm pretty good at fake crying myself.",
+						"answer": "Any"
+					},
+					{
+						"question": "The key is... you don't actually cry!",
+						"answer": "Any"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Harisen Recovery",
+				"description": "Ann might cure a status ailment inflicted on a fellow party member",
+				"entries": [
+					{
+						"question": "I guess you really just need someone to laugh at you if you want to feel better.",
+						"answer": "It seems that way."
+					},
+					{
+						"question": "So I agreed without thinking much of it...",
+						"answer": "Any"
+					},
+					{
+						"question": "... Is it because I'm weak?",
+						"answer": "Any"
+					},
+					{
+						"question": "So I was thinking, and um... what can I do to help Shiho?",
+						"answer": "Show her your own strength."
+					},
+					{
+						"question": "But now that I saw her crying, I know I'll find something I can do for her...!",
+						"answer": "Someone's motivated."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Sexy Technique",
+				"description": "Chance to seduce the enemy during negotiation and steer discussion.",
+				"entries": [
+					{
+						"question": "I wonder why...",
+						"answer": "She admires you."
+					},
+					{
+						"question": "Why did Mika ask for me...?",
+						"answer": "Any"
+					},
+					{
+						"question": "......",
+						"answer": "Any"
+					},
+					{
+						"question": "I want to be a real model...!",
+						"answer": "Go get 'em, tiger."
+					},
+					{
+						"question": "Obviously that means dieting, cutting back on food, and no matter how tough it is, I'll do any workout!",
+						"answer": "You got this."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Ann might survive an otherwise fatal attack with 1HP remaining",
+				"entries": [ 
+					{
+						"question": "Obviously I want to cut down on my waist size too...",
+						"answer": "You have some real guts."
+					},
+					{
+						"question": "Huh... There has to be somewhere my vibrant charm will shine, right!?",
+						"answer": "There's no doubt in my mind."
+					},
+					{
+						"question": "It's simple stuff like that that'll help you keep pushin'.",
+						"answer": "Any"
+					},
+					{
+						"question": "I need to show her that I'm working hard...",
+						"answer": "She'll be happy to hear that."
+					},
+					{
+						"question": "...I wonder if this is how Shiho felt with her rehab? Being able to push herself because someone was there with her...",
+						"answer": "You can ask her yourself."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Protect",
+				"description": "Ann might protect Joker from an otherwise fatal attack",
+				"entries": [
+					{
+						"question": "We're so high up...",
+						"answer": "Any"
+					},
+					{
+						"question": "So, I wanted to see if she would show up again now.",
+						"answer": "Any"
+					},
+					{
+						"question": "Because, well... the only way I can help Shiho is to show her how hard I'm working.",
+						"answer": "I believe in you, Ann."
+					},
+					{
+						"question": "I guess... I'm alone again, huh...?",
+						"answer": "You have me (Romance option)"
+					}
+				]
+			}
+		}
+	},
+	"Yusuke Kitagawa": {
+		"unlockDate": "Automatically on June 14th",
+		"arcana": "Emperor",
+		"ranks": {
+			"2": {
+				"unlocks": "Card Duplication",
+				"description": "Allows Yusuke to use Blank Cards to duplicate Skill Cards",
+				"entries": [
+					{
+						"question": "I would like your honest opinion... if you would.",
+						"answer": "Any"
+					},
+					{
+						"question": "More importantly, it shall be the spark that revitalizes my slumberi...",
+						"answer": "Any"
+					},
+					{
+						"question": "I'm on a roll right now. I shall keep up this momentum and apply it ...",
+						"answer": "You're already doing enough."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Follow Up",
+				"description": "Gives Yusuke the chance to attack an enemy after Joker as a follow-up",
+				"entries": [
+					{
+						"question": "My work is... empty?",
+						"answer": "Don't let it bother you."
+					},
+					{
+						"question": "This grave mistake shall be the end for me...!",
+						"answer": "Any."
+					},
+					{
+						"question": "What is going to happen to me now...? Without art, what will remain ...",
+						"answer": "This isn't like you."
+					},
+					{
+						"question": "But that is all the more reason I must break out of my slump. I mus...",
+						"answer": "Any"
+					},
+					{
+						"question": "I'm going to have ten pieces finished up by end of today!",
+						"answer": "That's the spirit."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Art Talk",
+				"description": "Gives Yusuke the chance to step in on a failed demon negotiation",
+				"entries": [
+					{
+						"question": "Thank you for your assistance today. After all, it would be impossi...",
+						"answer": "Any"
+					},
+					{
+						"question": "It seems my bias has caused me to overlook the truth of the matter...",
+						"answer": "Love comes in all forms."
+					},
+					{
+						"question": "Even if I ever do understand it, will I truly be able to draw it...?",
+						"answer": "Don't get discouraged."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Card Creation",
+				"description": "Grants Yusuke the ability to create any Skill card he has copied before.",
+				"entries": [
+					{
+						"question": "You will have to be my model today.",
+						"answer": "Do you want me to strip?"
+					},
+					{
+						"question": "Do you think I will be able to capture the truth someday?",
+						"answer": "I'm sure you will"
+					},
+					{
+						"question": "The further I seem to be from understanding the abyss of the heart.",
+						"answer": "There's still hope."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Harisen Recovery",
+				"description": "Gives Yusuke the chance to step in and heal status ailments on party members",
+				"entries": [
+					{
+						"question": "This place has not changed in the slightest...",
+						"answer": "It feels nostalgic."
+					},
+					{
+						"question": "Why do you think Madarame decided to take me in?",
+						"answer": "Maybe he was sympathetic"
+					},
+					{
+						"question": "What's your impression of him?",
+						"answer": "He had a certain dignity."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Live Painting",
+				"description": "Grants Yusuke the ability to use Card Duplication and Card Creation on the spot.",
+				"entries": [
+					{
+						"question": "We'll sell you as the 'tragic, handsome artist.",
+						"answer": "What do you mean?"
+					},
+					{
+						"question": "Why is it that all artists talk about is money, money, money!?...",
+						"answer": "The truth is within you."
+					},
+					{
+						"question": "I'm a petty sellout, a slave to the power of money!",
+						"answer": "It's not a crime to enjoy sushi"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Gives Yusuke a chance to withstand a blow in combat that would usually kill",
+				"entries": [
+					{
+						"question": "What subject do you think would most capture beauty?",
+						"answer": "It has to be Ann."
+					},
+					{
+						"question": "Is this what pure passion is supposed to look like!?...",
+						"answer": "You've really grown, Yusuke."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Protect",
+				"description": "Gives Yusuke the ability to shield Joker from an attack that would be fatal",
+				"entries": [
+					{
+						"question": "When my mother was painting the 'Sayuri'...",
+						"answer": "Her love for her son"
+					},
+					{
+						"question": "But that is why I am going to wield my brush again... To give hope ...",
+						"answer": "You've really changed, Yusuke."
+					}
+				]
+			}
+		}
+	},
+	"Makoto Niijima": {
+		"unlockDate": "Automatically on June 25th",
+		"arcana": "Priestess",
+		"ranks": {
+			"2": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I heard there were quite a few brothels as well.",
+						"answer": "You're very well informed."
+					},
+					{
+						"question": "If you hadn't been there to rescue me, I...",
+						"answer": "That was dangerous."
+					},
+					{
+						"question": "I guess nothing beats practical experience.",
+						"answer": "Couldn't agree more."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Black Belt Talk",
+				"description": "If negotiation with a martial arts-using Shadow fails, you can try again.",
+				"entries": [
+					{
+						"question": "What's up with that, Miss Prez?",
+						"answer": "You have the wrong idea."
+					},
+					{
+						"question": "She thought I was a robot...",
+						"answer": "You can change."
+					},
+					{
+						"question": "She even has a bunch of Buchimaru-kun emoticons!",
+						"answer": "Sounds like you two get along."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Follow Up",
+				"description": "Giving Makoto the chance to attack an enemy after Joker as a follow-up",
+				"entries": [
+					{
+						"question": "So, my class had a practice entrance exam... and my score was signifi...",
+						"answer": "That's unlike you."
+					},
+					{
+						"question": "I sent her a picture... and it's apparently the same brand they use ...",
+						"answer": "Why do you use it?"
+					},
+					{
+						"question": "I had completely forgotten about that dream, to be honest...",
+						"answer": "That's an amazing goal."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "She even sent me a picture of their date at Destinyland.",
+						"answer": "He sounds suspicious."
+					},
+					{
+						"question": "This time, um... you'll have to play the role of my boyfriend.",
+						"answer": "I got this."
+					},
+					{
+						"question": "What should we do…?",
+						"answer": "Try to reach out to her."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Harisen Recovery",
+				"description": "Gives Makoto the chance to step in and heal status ailments on party members",
+				"entries": [
+					{
+						"question": "Are you seriously datin'?",
+						"answer": "Love comes in many forms."
+					},
+					{
+						"question": "I want to ignore him, but I shouldn’t for Eiko’s sake…",
+						"answer": "Tell him you're on a date."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Shadow Factorization",
+				"description": "Tells you if an attack will be effective or not while targeting",
+				"entries": [
+					{
+						"question": "I'm not sure any of that would have happened if not for the incident...",
+						"answer": "Any"
+					},
+					{
+						"question": "Trying to bring justice and order to the world around him.",
+						"answer": "Any"
+					},
+					{
+						"question": "And more importantly, how do I want to live...?",
+						"answer": "Any"
+					},
+					{
+						"question": "Wanna hav a double wedding?",
+						"answer": "Any"
+					},
+					{
+						"question": "Can we keep this up until I can make a call one way or the other?",
+						"answer": "It's the role I always hoped for."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Giving Makoto a chance to withstand a blow in combat that would usually kill",
+				"entries": [
+					{
+						"question": "So he calls you his special princess... What do you think, Joker?",
+						"answer": "Any"
+					},
+					{
+						"question": "She needs to realize that. You're going to help, right?",
+						"answer": "Absolutely."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Protect",
+				"description": "Gives Makoto the ability to shield Joker from an attack that would be fatal",
+				"entries": [
+					{
+						"question": "I dare you!",
+						"answer": "Any"
+					},
+					{
+						"question": "People noticed what happened...",
+						"answer": "We should get out of here."
+					},
+					{
+						"question": "I can't believe I actually hit one of my friends..",
+						"answer": "That was the right move."
+					},
+					{
+						"question": "How did you ever find somewhere like this...? You know so much.",
+						"answer": "Any"
+					},
+					{
+						"question": "I can't learn about romance by myself...",
+						"answer": "I'll be your study partner."
+					},
+					{
+						"question": "Do you... like me?",
+						"answer": "I do. (Romance option)"
+					},
+					{
+						"question": "I'd do anything for you.",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Futaba Sakura": {
+		"unlockDate": "Automatically on August 31st",
+		"arcana": "Hermit",
+		"ranks": {
+			"2": {
+				"unlocks": "Mementos Scan",
+				"description": "Chance to fully map the floor of Mementos upon arrival",
+				"entries": [
+					{
+						"question": "But online classes are better for studying! I wouldn't even have to ...",
+						"answer": "That's a great idea."
+					},
+					{
+						"question": "Do you think I'll be able to?",
+						"answer": "If we work together."
+					},
+					{
+						"question": "Do you think it'd make Sojiro happy?",
+						"answer": "I bet it will."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I, I, I...",
+						"answer": "I was about to come find you."
+					},
+					{
+						"question": "Bam, a wild Joker appeared!",
+						"answer": "Good to see you again."
+					},
+					{
+						"question": "I'll clear it in no time...! Right?",
+						"answer": "We'll both do our best."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Position Hack",
+				"description": "Chance to instantly start a battle with a Hold-up",
+				"entries": [
+					{
+						"question": "Can I use a Goho-M instead...?",
+						"answer": "Let's do this together."
+					},
+					{
+						"question": "Am I weird, Joker?",
+						"answer": "I think it's cute."
+					},
+					{
+						"question": "The real world is a scary place...",
+						"answer": "I'll help you anytime."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Maybe my luck stat's really high.",
+						"answer": "I think you're right."
+					},
+					{
+						"question": "Are you an NPC?!",
+						"answer": "He's the protagonist."
+					},
+					{
+						"question": "No more getting scared of the police! C'mon, tell me I'm cool!",
+						"answer": "You did great."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Active Support",
+				"description": "Moral Support may now recover SP and grant Charge/Concentrate effects",
+				"entries": [
+					{
+						"question": "She started saying it every day from then on.",
+						"answer": "That must have been a shock."
+					},
+					{
+						"question": "I felt terrible, but she just kept yelling at me for reading it...",
+						"answer": "You didn't know any better."
+					},
+					{
+						"question": "I get so scared...",
+						"answer": "Are you running away again?"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Treasure Reboot",
+				"description": "Chance to revive search objects in the area after battle",
+				"entries": [
+					{
+						"question": "They're even selling the pictures now...",
+						"answer": "Any"
+					},
+					{
+						"question": "Please, help me save her!",
+						"answer": "Any"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Long story short... we made up! I finally apologized to her.",
+						"answer": "Any"
+					},
+					{
+						"question": "It's all because of you that I could do it!",
+						"answer": "You worked really hard, too."
+					},
+					{
+						"question": "I'm so glad I cleared that goal.",
+						"answer": "Any"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Emergency Shift",
+				"description": "Chance to swap current party with backups when two or more are KO'd",
+				"entries": [
+					{
+						"question": "I'm gonna go back.",
+						"answer": "You've really matured."
+					},
+					{
+						"question": "Then even when we're apart, I can't stop thinking about you...",
+						"answer": "Are you OK, Futaba?"
+					},
+					{
+						"question": "...Can we skip that last promise?",
+						"answer": "Any"
+					},
+					{
+						"question": "Why...?",
+						"answer": "Because I love you. (Romance option)"
+					},
+					{
+						"question": "Phone Call",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Haru Okumura": {
+		"unlockDate": "Automatically on October 31st",
+		"arcana": "Empress",
+		"ranks": {
+			"2": {
+				"unlocks": "Cultivation",
+				"description": "Allows you to grow vegetables with Haru on the rooftop of Shujin Academy",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 2",
+						"answer": "He sounds suspicious."
+					},
+					{
+						"question": "Choice 3",
+						"answer": "This is a complex issue."
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Any"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Follow Up",
+				"description": "Gives Haru the chance to attack an enemy after Joker as a follow-up",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 2",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 3",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Smart Response."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Celeb Talk",
+				"description": "Gives Haru the chance to step in on a failed demon negotiation",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "It must be amazing."
+					},
+					{
+						"question": "Choice 2",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 3",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 4",
+						"answer": "Let's ask him."
+					},
+					{
+						"question": "Choice 5",
+						"answer": "I'm not really sure."
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Let's get coffee again sometime."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Selective Breeding",
+				"description": "Increases the amount of vegetables harvested from a single crop",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Somebody's telling the truth."
+					},
+					{
+						"question": "Choice 2",
+						"answer": "There has to be another way."
+					},
+					{
+						"question": "Choice 3",
+						"answer": "I don't think so."
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Pinch yourself."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Harisen Recovery",
+				"description": "Gives Haru the chance to step in and heal status ailments on party members",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 2",
+						"answer": "I had no idea."
+					},
+					{
+						"question": "Choice 3",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 5",
+						"answer": "Be strong, Haru."
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "You can talk to me anytime."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Soil Improvement",
+				"description": "Reduces the number of days required to harvest vegetables",
+				"entries": [
+					{
+						"question": "Choice 2",
+						"answer": "What do you want to do?"
+					},
+					{
+						"question": "Choice 3",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 4",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "I'll always have your back."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Gives Haru a chance to withstand a blow in combat that would usually kill",
+				"entries": [
+					{
+						"question": "The soil?",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 2",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 3",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "I want some too."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Protect",
+				"description": "Gives Haru the ability to shield Joker from an attack that would be fatal",
+				"entries": [
+					{
+						"question": "Choice 2",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 3",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 4",
+						"answer": "I like you too, Haru."
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Goro Akechi": {
+		"unlockDate": "Automatically on June 10th",
+		"arcana": "Justice",
+		"ranks": {
+			"2": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Looks like I've been spotted.",
+						"answer": "Should’ve figured."
+					},
+					{
+						"question": "I saw first-hand what happens when I'm too careless with my words...",
+						"answer": "Wasn't it fun?"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Follow Up",
+				"description": "Akechi may perform a follow-up attack if Joker's attack fails to dow...",
+				"entries": [
+					{
+						"question": "Any",
+						"answer": "Any"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Sleuthing Mastery",
+				"description": "Chance to reveal all of an enemy’s affinities at the start of a fight",
+				"entries": [
+					{
+						"question": "You get to hear some great performers here.",
+						"answer": "Now this is my kind of club."
+					},
+					{
+						"question": "Well then, why don't we get some drinks?",
+						"answer": "Any recommendations?"
+					},
+					{
+						"question": "How relaxing. I really do like coming here.",
+						"answer": "It’s a great place."
+					},
+					{
+						"question": "That reminds me, do you cook?",
+						"answer": "Any"
+					},
+					{
+						"question": "It's a euphoria like when I manage to solve a case.",
+						"answer": "I kinda get it."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "What a realistic game.",
+						"answer": "Are you used to gunplay?"
+					},
+					{
+						"question": "All this reminded me of running around the house with it...",
+						"answer": "You wanted to be a hero?"
+					},
+					{
+						"question": "I wish I'd played better.",
+						"answer": "Any"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Detective Talk",
+				"description": "Akechi may intervene during negotiations with 'Intelligent' shadows",
+				"entries": [
+					{
+						"question": "Ahh, this feels wonderful... It's been a while.",
+						"answer": "A while, huh?"
+					},
+					{
+						"question": "Whenever she had to bring a man home, she'd send me off...",
+						"answer": "...You’ve been through a lot."
+					},
+					{
+						"question": "I know the hot water can make people dizzy...",
+						"answer": "Any"
+					},
+					{
+						"question": "I think I feel a little lightheaded.",
+						"answer": "Same."
+					},
+					{
+						"question": "I wonder why I told you? Curious indeed.",
+						"answer": "Any"
+					},
+					{
+						"question": "We're both victims of the adults who unfairly impacted our lives.",
+						"answer": "I think you’re right."
+					},
+					{
+						"question": "If they saw how I was acting today...",
+						"answer": "My bad, I guess."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "You have to be indirect, but precise, to land it in the pocket...",
+						"answer": "That’s why it’s so fun."
+					},
+					{
+						"question": "I'm impressed that you beat me. You've become quite skilled.",
+						"answer": "I couldn’t let myself lose."
+					},
+					{
+						"question": "...the teammates you have now. How about it?",
+						"answer": "You’re my rival."
+					},
+					{
+						"question": "Phone Call",
+						"answer": "We’re rivals, aren’t we?"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Akechi may survive a fatal attack with 1 HP remaining",
+				"entries": [
+					{
+						"question": "If we had fought to the end, do you see yourself winning?",
+						"answer": "I definitely wouldn’t lose."
+					},
+					{
+						"question": "You're the one person I refuse to lose to.",
+						"answer": "Really hate losing, don’t you?"
+					},
+					{
+						"question": "Should the opponent accept the glove, the duel is also accepted.",
+						"answer": "I accept"
+					}
+				]
+			}
+		}
+	},
+	"Tae Takemi": {
+		"unlockDate": "April 18th",
+		"arcana": "Death",
+		"ranks": {
+			"2": {
+				"unlocks": "Guts +1",
+				"description": "Increases your Guts social stat",
+				"entries": [
+					{
+						"question": "You don't seem to be sick... Are you up to something illegal!?",
+						"answer": "I have a bad heart."
+					},
+					{
+						"question": "I'm so over this.",
+						"answer": "I agree."
+					},
+					{
+						"question": "You know how it is. Some patients get sick on their way back home.",
+						"answer": "Any"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Sterilization",
+				"description": "Adds more healing items to the clinic shop",
+				"entries": [
+					{
+						"question": "Participating in clinical trials run by a doctor like that?",
+						"answer": "Any"
+					},
+					{
+						"question": "You… haven't told anyone about my drugs, right?",
+						"answer": "Of course not."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Guts +1",
+				"description": "Increases your Guts social stat",
+				"entries": [
+					{
+						"question": "......",
+						"answer": "Dr. Takemi will help."
+					},
+					{
+						"question": "Hehe.",
+						"answer": "You seem happy."
+					},
+					{
+						"question": "Especially after approving that girl's consultation without my perm...",
+						"answer": "I'll reflect on my mistakes"
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Immunization",
+				"description": "Adds support items (buffs/debuffs) to the clinic shop",
+				"entries": [
+					{
+						"question": "That's why it's harmless for people who don't have the disease...",
+						"answer": "That's good."
+					},
+					{
+						"question": "Also… sorry for the long talk today. I wasn't planning on telling ...",
+						"answer": "About Miwa-chan?"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "That's my role as the Plague. I'm not suited for all this other stu...",
+						"answer": "It suits you."
+					},
+					{
+						"question": "I'll need you to stick around just a little bit longer.",
+						"answer": "Anything for you."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Discount",
+				"description": "Significantly reduces the cost of all items in the clinic shop",
+				"entries": [
+					{
+						"question": "......",
+						"answer": "Any"
+					},
+					{
+						"question": "I can...",
+						"answer": "Any"
+					},
+					{
+						"question": "Ugh. I wish I hadn't shown you that side of me...",
+						"answer": "We all do sometimes."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I'm all out of allies...",
+						"answer": "I'm your ally."
+					},
+					{
+						"question": "So she's... she's alive...",
+						"answer": "Any"
+					},
+					{
+						"question": "Sorry. Just hang in there, OK?",
+						"answer": "Any"
+					},
+					{
+						"question": "Miwa-chan was fighting all that time. I have to fight for her, too.",
+						"answer": "Any"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "All this is thanks to you helping me with the clinical trials.",
+						"answer": "It was rough."
+					},
+					{
+						"question": "Why don't you tell me the truth about why you kept coming to me?",
+						"answer": "I wanted to see you"
+					},
+					{
+						"question": "...Don't tell me you're in love with me or something.",
+						"answer": "I love you."
+					},
+					{
+						"question": "Or... I can give you a \"special examination\" if you'd like.",
+						"answer": "It isn't a joke."
+					},
+					{
+						"question": "Turns out my little guinea pig caught an illness that's even more ...",
+						"answer": "So did you."
+					}
+				]
+			}
+		}
+	},
+	"Sojiro Sakura": {
+		"unlockDate": "April 20th",
+		"arcana": "Hierophant",
+		"ranks": {
+			"2": {
+				"unlocks": "Coffee Basics",
+				"description": "Allows you to brew coffee that restores SP to one ally",
+				"entries": [
+					{
+						"question": "You know what I'm talking about, right?",
+						"answer": "Making coffee."
+					},
+					{
+						"question": "Ugh... I don't know where he caught wind of this place.",
+						"answer": "That guy seemed suspicious."
+					},
+					{
+						"question": "Besides, ladies love a guy who knows his coffee.",
+						"answer": "I want the ladies to love me."
+					},
+					{
+						"question": "Seems like you’re a quick study, so I hope you've got the hang of it.",
+						"answer": "Got it."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "...Are you listening to me? What grind are you supposed to use?",
+						"answer": "Medium-fine."
+					},
+					{
+						"question": "Sorry, something just came up. We can keep going with the lessons...",
+						"answer": "Is it trouble?"
+					},
+					{
+						"question": "But don't worry, I'll put you to work.",
+						"answer": "Any"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Leblanc Curry",
+				"description": "Allows you to cook curry that restores SP to all allies",
+				"entries": [
+					{
+						"question": "That's because the acidity and the bean flavor profile all depend...",
+						"answer": "Tell me more."
+					},
+					{
+						"question": "It looks like Sojiro's in trouble. What should I do...?",
+						"answer": "Call Sojiro's phone."
+					},
+					{
+						"question": "Just let him do his thing, and get on with the job. Got it?",
+						"answer": "Understood."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "And what about you?",
+						"answer": "I think I'm addicted!"
+					},
+					{
+						"question": "I thought my pick-up lines were the best in town...",
+						"answer": "She wasn't normal, huh?"
+					},
+					{
+						"question": "That's why when I took her in, I vowed to keep this recipe alive...",
+						"answer": "It really paid off in the end."
+					},
+					{
+						"question": "It's only a problem when she asks for it three times a day.",
+						"answer": "She needs a balanced diet."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Coffee Mastery",
+				"description": "Allows you to brew coffee that restores a large amount of SP",
+				"entries": [
+					{
+						"question": "By the way, what are your thoughts on So-chan's life of solitude?",
+						"answer": "To each his own."
+					},
+					{
+						"question": "Doesn't quite seem to be the best environment for Futaba, now does it?",
+						"answer": "Shut your mouth."
+					},
+					{
+						"question": "I don't even know how he managed to find me here...",
+						"answer": "Saving Futaba was no mistake."
+					},
+					{
+						"question": "Futaba's fast asleep... Didn't mean to get you tangled up...",
+						"answer": "If I can help somehow..."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "At the end of the day, the coffee and the curry people love...",
+						"answer": "You might be right."
+					},
+					{
+						"question": "And that's only because you helped us connect, so... thanks for that.",
+						"answer": "Feel like a real dad now?"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "How about you? Anything you'd wanna add to the menu?",
+						"answer": "Something with curry."
+					},
+					{
+						"question": "What a pain in the ass. Don't you have enough problems already?",
+						"answer": "I was just protecting Futaba."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Curry Tips",
+				"description": "Allows you to cook curry that restores a large amount of SP",
+				"entries": [
+					{
+						"question": "How is it... living with Sakura-san? Please, you can speak honestly.",
+						"answer": "It's great."
+					},
+					{
+						"question": "...Sojiro?",
+						"answer": "Any"
+					},
+					{
+						"question": "Getting all sentimental like this? At my age?",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Munehisa Iwai": {
+		"unlockDate": "May 6th (Requires Guts Rank 4)",
+		"arcana": "Hanged Man",
+		"ranks": {
+			"2": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Sounds like there's some weird stuff goin' down.",
+						"answer": "Any"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Medium Customization",
+				"description": "Allows you to perform medium-level customizations on your firearms",
+				"entries": [
+					{
+						"question": "The same clan I was in... back when I was part of the yakuza.",
+						"answer": "I always knew you were a thug."
+					},
+					{
+						"question": "..Hope I ain't scarin' you off with all this talk.",
+						"answer": "We made a deal, didn't we?"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I'm gonna be able to give Tsuda a real scare thanks to the info...",
+						"answer": "Where's my reward?"
+					},
+					{
+						"question": "Now Tsuda knows your face. And that could be a real problem.",
+						"answer": "I agree."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Discount",
+				"description": "Reduces the cost of gun customization",
+				"entries": [
+					{
+						"question": "He's just got too much power...",
+						"answer": "You're pathetic."
+					},
+					{
+						"question": "...You prolly don't want anythin' to do with me after that, huh?",
+						"answer": "I'll stick around for the guns."
+					},
+					{
+						"question": "But I gotta protect that secret, no matter what. For Kaoru's sake.",
+						"answer": "You're right."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "What've you been talkin' about?",
+						"answer": "Any"
+					},
+					{
+						"question": "Ain't that right?",
+						"answer": "You should buy is something."
+					},
+					{
+						"question": "Glad to see you two get along.",
+						"answer": "Any"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Expert Customization",
+				"description": "Allows you to perform high-level customizations on your firearms",
+				"entries": [
+					{
+						"question": "Don't somethin' about that seem off to you?",
+						"answer": "Absolutely."
+					},
+					{
+						"question": "And now he's tryin' to use me to cover up his mistake.",
+						"answer": "He's clever."
+					},
+					{
+						"question": "We can't afford to take any chances.",
+						"answer": "Bring it on."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I hope dealing with all this yakuza business hasn't been too much...",
+						"answer": "I did it all for Iwai."
+					},
+					{
+						"question": "Just forget all of this...",
+						"answer": "Any"
+					},
+					{
+						"question": "You think a guy can really go through a drastic change that quick?",
+						"answer": "I dunno."
+					},
+					{
+						"question": "I understand kids these days have all sortsa commitments...",
+						"answer": "Any"
+					},
+					{
+						"question": "Seemed like he was on the level, but... can't be too careful.",
+						"answer": "Understood."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Serves him right, huh?",
+						"answer": "Are you sure he's alive?"
+					},
+					{
+						"question": "Kaoru...",
+						"answer": "Any"
+					},
+					{
+						"question": "Guess you're maturin' quicker than I even realized...",
+						"answer": "Any"
+					},
+					{
+						"question": "...The kid must've grown into a man while I wasn't looking.",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Sadayo Kawakami": {
+		"unlockDate": "May 24th (Requires Guts Rank 3)",
+		"arcana": "Temperance",
+		"ranks": {
+			"2": {
+				"unlocks": "Slack Off",
+				"description": "Allows you to perform various activities during Kawakami's class",
+				"entries": [
+					{
+						"question": "Doesn't it pain your heart to see such a cute maid all dirty?",
+						"answer": "It does."
+					},
+					{
+						"question": "You weren't expecting to do anything weird with me, were you?",
+						"answer": "Absolutely not!"
+					},
+					{
+						"question": "Is that okay, Master?",
+						"answer": "Any"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Housekeeping",
+				"description": "Allows you to request Kawakami to make coffee or do laundry",
+				"entries": [
+					{
+						"question": "The high-end cup noodles really do make a difference, don't they?",
+						"answer": "Any"
+					},
+					{
+						"question": "I heard they might even cut the teachers' salaries... I'm so sick...",
+						"answer": "I'll request you more often."
+					},
+					{
+						"question": "You're still young, so you really need to eat properly...",
+						"answer": "Thanks."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "But he said that he prioritizes 'younger' women!",
+						"answer": "How rude."
+					},
+					{
+						"question": "I look pretty good as a maid, don't I?",
+						"answer": "You need to love yourself."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Free Time",
+				"description": "Gives you free time in other teachers' classes",
+				"entries": [
+					{
+						"question": "You know you're being used for money... and you still request me?",
+						"answer": "Any"
+					},
+					{
+						"question": "He threatened me... saying that I'd be dismissed if I continued...",
+						"answer": "Any"
+					},
+					{
+						"question": "Do you get to eat that place's curry every day?",
+						"answer": "You want some?"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Sorry... I need to take a break...",
+						"answer": "Want to rest a bit?"
+					},
+					{
+						"question": "I can't stop coughing...",
+						"answer": "Any"
+					},
+					{
+						"question": "If you neglect stuff like that, it makes you more likely to get sick.",
+						"answer": "How are you feeling, though?"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Super Housekeeping",
+				"description": "Allows Kawakami to make curry or infiltration tools for you",
+				"entries": [
+					{
+						"question": "I should be able to send it out tomorrow...",
+						"answer": "Don't pay them."
+					},
+					{
+						"question": "I guess transferring to our sister company is the only way...",
+						"answer": "Think this through more."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "This is just what I have to do.",
+						"answer": "Is this what you really want?"
+					},
+					{
+						"question": "What do you think?",
+						"answer": "If that's what you've decided."
+					},
+					{
+						"question": "And that is my answer! ...Well, what do you think?",
+						"answer": "Any"
+					},
+					{
+						"question": "As your teacher, I will never betray you.",
+						"answer": "Any"
+					},
+					{
+						"question": "It's thanks to you that I actually figured out what I need to do.",
+						"answer": "You're welcome."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I bet I'll be an old woman by the time I achieve my dreams.",
+						"answer": "Nonsense."
+					},
+					{
+						"question": "Today marks the day I graduate from being your maid.",
+						"answer": "Any"
+					},
+					{
+						"question": "Besides, won't you be lonely? Hm?",
+						"answer": "I want to keep seeing you."
+					},
+					{
+						"question": "Giving someone the wrong idea... It's a sinful act, you know?",
+						"answer": "I mean what I say."
+					},
+					{
+						"question": "This situation isn't normal. I'm a teacher, and you're my student...",
+						"answer": "I'm a man, you're a woman."
+					}
+				]
+			}
+		}
+	},
+	"Yuuki Mishima": {
+		"unlockDate": "Automatically on May 8th",
+		"arcana": "Moon",
+		"ranks": {
+			"2": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "We need the Phantom Thieves to be seen in the proper light...",
+						"answer": "You've done good, kid."
+					},
+					{
+						"question": "It's like I'll be your strategic image management representative...",
+						"answer": "Sounds cool."
+					},
+					{
+						"question": "At this point, I might as well pull an all-nighter fighting back!",
+						"answer": "Nice hustle, image manager."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Mishima's Enthusiasm",
+				"description": "Increases EXP earned from battle",
+				"entries": [
+					{
+						"question": "All thieves are supposed to have some special ladies, right?",
+						"answer": "Great idea."
+					},
+					{
+						"question": "Don't spill the beans, okay?",
+						"answer": "Any"
+					},
+					{
+						"question": "I didn't have time to really vet them too much.",
+						"answer": "It's not your fault."
+					},
+					{
+						"question": "It's always better to hear that kinda stuff in person, right?",
+						"answer": "Any"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "...don't be afraid to go all out! What do you wanna eat?",
+						"answer": "Steak sounds good."
+					},
+					{
+						"question": "Not bad for strategic management, huh?",
+						"answer": "You're amazing."
+					},
+					{
+						"question": "I guess it ended up being pretty good for our PR in the end, right?",
+						"answer": "Any"
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Mishima's Desperation",
+				"description": "Increases EXP earned by backup party members",
+				"entries": [
+					{
+						"question": "It cost me a lot of money...",
+						"answer": "Is it for me?"
+					},
+					{
+						"question": "Some of the stuff up there is pretty scary...",
+						"answer": "That's a good idea."
+					},
+					{
+						"question": "I'm gonna do everything in my power, so you can just kick back!",
+						"answer": "All right."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "This one's massive!",
+						"answer": "Any"
+					},
+					{
+						"question": "I hear a rumor that a famous idol fell into his clutches...",
+						"answer": "Any"
+					},
+					{
+						"question": "After all, I'm the only reason you guys have gotten this far, right?",
+						"answer": "Absolutely. Nice job."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Phanboy",
+				"description": "Greatly increases EXP earned from battle",
+				"entries": [
+					{
+						"question": "I need to make sure our next target is one we can win against.",
+						"answer": "You're so reliable."
+					},
+					{
+						"question": "So... we're gonna purge them.",
+						"answer": "Any"
+					},
+					{
+						"question": "I wonder if there's really any way a pathetic guy like me can help...",
+						"answer": "Maybe the Phansite?"
+					},
+					{
+						"question": "It seems like enough evidence to make him a target...",
+						"answer": "Any"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Akira... run.",
+						"answer": "I'm not leaving."
+					},
+					{
+						"question": "Urgh...",
+						"answer": "Any"
+					},
+					{
+						"question": "My whole act would've broken down if they didn't back off...",
+						"answer": "Any"
+					},
+					{
+						"question": "B-But I have the model gun I got for self-defense!",
+						"answer": "Any"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Mishima's Salvation",
+				"description": "Backup party members earn the same EXP as active members",
+				"entries": [
+					{
+						"question": "One slip of the tongue in that act I pulled, and I would've been de...",
+						"answer": "You showed some real courage."
+					},
+					{
+						"question": "You heard what he said about me... do you think I've changed?",
+						"answer": "The sparkle in your eyes."
+					}
+				]
+			}
+		}
+	},
+	"Hifumi Togo": {
+		"unlockDate": "June 25th (Requires Charm Rank 3)",
+		"arcana": "Star",
+		"ranks": {
+			"2": {
+				"unlocks": "Knowledge Up",
+				"description": "Increases your Knowledge social stat",
+				"entries": [
+					{
+						"question": "It's as if I assume the role of a queen of a kingdom.",
+						"answer": "That's interesting."
+					},
+					{
+						"question": "Um, well, I'm doing a photoshoot for one...",
+						"answer": "But you don't want to, right?"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Uchikomi",
+				"description": "Allows backup allies to perform a follow-up attack after a 1 More",
+				"entries": [
+					{
+						"question": "Did you see it...? It was called 'The Venus of Shogi'...",
+						"answer": "Describes you perfectly."
+					},
+					{
+						"question": "It's as if she wants to be the manager of a celebrity.",
+						"answer": "Having a difficult time?"
+					},
+					{
+						"question": "How can I teach you properly when I’m this distressed...?",
+						"answer": "Bring it on."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Knowledge Up",
+				"description": "Increases your Knowledge social stat",
+				"entries": [
+					{
+						"question": "She's my senior... I defeated her in a recent title match.",
+						"answer": "Any"
+					},
+					{
+						"question": "What do you think about them?",
+						"answer": "They're cool."
+					},
+					{
+						"question": "Really, I would be delighted to do this again.",
+						"answer": "Any"
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Kakoi Kuzushi",
+				"description": "Allows you to attempt to escape even when surrounded by enemies",
+				"entries": [
+					{
+						"question": "I apologize. That must have been quite a shock.",
+						"answer": "She's scary."
+					},
+					{
+						"question": "But it's honestly quite difficult for me.",
+						"answer": "You should stop then."
+					},
+					{
+						"question": "She didn't mean to offend you at all.",
+						"answer": "You've got a lot to deal with."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Knowledge Up",
+				"description": "Increases your Knowledge social stat",
+				"entries": [
+					{
+						"question": "So now she's even more insistent on having me do more TV...",
+						"answer": "Is that frustrating?"
+					},
+					{
+						"question": "Maybe I should stop playing shogi and just get a job...",
+						"answer": "Any"
+					},
+					{
+						"question": "Considering how good a listener you are, I mean.",
+						"answer": "You're imagining things."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Narikin",
+				"description": "Double money reward if you win in 1 turn after an ambush",
+				"entries": [
+					{
+						"question": "..I confess I am a bit scared, though.",
+						"answer": "It may all come down to luck."
+					},
+					{
+						"question": "I have to show them what I'm made of!",
+						"answer": "I believe in you."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Knowledge Up",
+				"description": "Increases your Knowledge social stat",
+				"entries": [
+					{
+						"question": "That way, I can use the weekly magazine's popularity against them...",
+						"answer": "That won't work."
+					},
+					{
+						"question": "Perhaps they eavesdropped on our conversation?",
+						"answer": "I'm glad her heart changed."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Touryou",
+				"description": "Allows you to escape from battle instantly without waiting",
+				"entries": [
+					{
+						"question": "I'm going to win... with these very hands.",
+						"answer": "Give it all you got."
+					},
+					{
+						"question": "I didn't want to hurt the pieces any longer..",
+						"answer": "A very queenly decision."
+					},
+					{
+						"question": "...So this is goodbye.",
+						"answer": "I want to stay by your side."
+					},
+					{
+						"question": "Choice 3 (After Romance choice)",
+						"answer": "I want us to date."
+					},
+					{
+						"question": "Phone Call",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Chihaya Mifune": {
+		"unlockDate": "June 22nd (Requires 100,000 Yen)",
+		"arcana": "Fortune",
+		"ranks": {
+			"2": {
+				"unlocks": "Luck Reading",
+				"description": "Temporarily increases the growth rate of a selected social stat",
+				"entries": [
+					{
+						"question": "What can we do to help this woman who is so oppressed...",
+						"answer": "Encourage her."
+					},
+					{
+						"question": "Incidentally, what would you say if you wanted to encourage her?",
+						"answer": "Overturn your fate."
+					},
+					{
+						"question": "Fate cannot be changed. Fate is absolute... That is how it must be.",
+						"answer": "Open your mind to change."
+					},
+					{
+						"question": "You're currently standing right in front of your house, correct!?",
+						"answer": "Of course I am."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Money Reading",
+				"description": "Temporarily increases the amount of money earned from battle",
+				"entries": [
+					{
+						"question": "How should he move forward?",
+						"answer": "Follow his heart."
+					},
+					{
+						"question": "What would you say to make him choose his childhood friend...?",
+						"answer": "Thieves may steal her away."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "How can I become one of those people, Joker-san?:",
+						"answer": "Trust in yourself."
+					},
+					{
+						"question": "Talking to you about everything is helping me feel a little better.",
+						"answer": "I didn't do much."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Fate Reading",
+				"description": "Preview the abilities of a chosen Confidant",
+				"entries": [
+					{
+						"question": "This way, I can suggest new alternatives instead of leaving them...",
+						"answer": "You're such a hard worker."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Celestial Reading",
+				"description": "Increases the chance of a Fusion Alarm occurring in the Velvet Room",
+				"entries": [
+					{
+						"question": "All this talk about me being a maiden or a monster...",
+						"answer": "You're just Chihaya to me."
+					},
+					{
+						"question": "I just can't find the courage to say what I need to…",
+						"answer": "Be honest with yourself."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Affinity Reading",
+				"description": "Deepens your bond with a chosen Confidant without spending time",
+				"entries": [
+					{
+						"question": "I'm a terrible person, huh?",
+						"answer": "I don't think so."
+					},
+					{
+						"question": "I'm done turning a blind eye.",
+						"answer": "Any"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "It's even shown up on the news!",
+						"answer": "I know."
+					},
+					{
+						"question": "It's almost like this curse... has passed.",
+						"answer": "Any"
+					},
+					{
+						"question": "Are you... interested in older women...?",
+						"answer": "Hell yeah, I am."
+					},
+					{
+						"question": "I think that's thanks to your influence.",
+						"answer": "It was all your own will."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "To avoid our fates...",
+						"answer": "Well, fate can be changed."
+					},
+					{
+						"question": "Why do you come here?",
+						"answer": "So I can be with you."
+					},
+					{
+						"question": "Phone Call",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Toranosuke Yoshida": {
+		"unlockDate": "May 6th",
+		"arcana": "Sun",
+		"ranks": {
+			"2": {
+				"unlocks": "Diplomacy",
+				"description": "Lets you ask for more money or items during demon negotiation",
+				"entries": [
+					{
+						"question": "Why do you want to become a politician?",
+						"answer": "I want to improve my speech."
+					},
+					{
+						"question": "What kind of politician do you want to be?",
+						"answer": "Any"
+					},
+					{
+						"question": "That is the foundation of a great speech.",
+						"answer": "That was helpful."
+					},
+					{
+						"question": "What do you think? Did you take anything useful from it?",
+						"answer": "Any"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Fundraising",
+				"description": "Allows you to demand a large amount of money during negotiation",
+				"entries": [
+					{
+						"question": "Tell me, what about Yoshida here drew you in?",
+						"answer": "Any"
+					},
+					{
+						"question": "I want you to use your experiences to forge your own conviction.",
+						"answer": "You think I'll ever find it?"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "The highlight, though, was your yelling.",
+						"answer": "I couldn't help myself."
+					},
+					{
+						"question": "Perhaps it seems too obvious... I hope you remember to cherish that.",
+						"answer": "Any"
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Manipulation",
+				"description": "Raises the chance that enemies will give up rare items",
+				"entries": [
+					{
+						"question": "Do you think I've regained my confidence?",
+						"answer": "That media doesn't matter."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "As a young man, are you for or against them?",
+						"answer": "I don't really care."
+					},
+					{
+						"question": "What would you do at a time like this?",
+						"answer": "I'd decline."
+					},
+					{
+						"question": "The most crucial thing is that you don't lose sight of who you are.",
+						"answer": "Any"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Could you talk some sense into him? You'll benefit as well.",
+						"answer": "You should decline."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Mind Control",
+				"description": "Chance to skip demon negotiation and obtain a Persona immediately",
+				"entries": [
+					{
+						"question": "Matsushita and take my revenge... but drop out of the election...",
+						"answer": "That's a difficult decision."
+					},
+					{
+						"question": "To achieve my dream, I have to set aside my beliefs. What do I do?",
+						"answer": "Stick to your beliefs."
+					},
+					{
+						"question": "That is why you must never forget what's truly important to you...",
+						"answer": "Any"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "OK, I'm going to get started.",
+						"answer": "Do your best."
+					},
+					{
+						"question": "Perhaps, it's the effect of you moving my heart.",
+						"answer": "You had a change of heart."
+					}
+				]
+			}
+		}
+	},
+	"Shinya Oda": {
+		"unlockDate": "September 4th",
+		"arcana": "Tower",
+		"ranks": {
+			"2": {
+				"unlocks": "Bullet Hail",
+				"description": "Chance to start a battle with a gun-based All-out Attack",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Don't compare me to you."
+					},
+					{
+						"question": "What a rude employee.",
+						"answer": "Any"
+					},
+					{
+						"question": "Do you admire them?",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 4",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Any"
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Warning Shot",
+				"description": "Allows you to scare Shadows into joining you during negotiation",
+				"entries": [
+					{
+						"question": "Choice 2",
+						"answer": "That's the spirit."
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Sure."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Dr. Takemi will help."
+					},
+					{
+						"question": "Choice 2",
+						"answer": "You seem happy."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Ammo Pouch",
+				"description": "Increases the maximum ammo capacity for all firearms",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Yeah, you tell him!"
+					},
+					{
+						"question": "Get your revenge.",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Any"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Cheap Shot",
+				"description": "Reduces the amount of ammo needed to use Down Shot",
+				"entries": [
+					{
+						"question": "Choice 3",
+						"answer": "I believe in you."
+					},
+					{
+						"question": "Not at all.",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Of course I won't."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Any",
+						"answer": "Any"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Electric Slug",
+				"description": "Increases the damage dealt by Bullet Hail",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "Any"
+					},
+					{
+						"question": "Choice 2",
+						"answer": "I believe in them"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "Choice 1",
+						"answer": "I glad to hear that."
+					},
+					{
+						"question": "Choice 2",
+						"answer": "Any"
+					},
+					{
+						"question": "He wants to win at all costs.",
+						"answer": "Any"
+					},
+					{
+						"question": "Phone Conversation",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	},
+	"Kasumi Yoshizawa": {
+		"unlockDate": "May 30th",
+		"arcana": "Faith",
+		"ranks": {
+			"2": {
+				"unlocks": "Tumbling",
+				"description": "Chance to avoid being surrounded by enemies in a Palace",
+				"entries": [
+					{
+						"question": "It's all about the harmony between the muscles...",
+						"answer": "Any"
+					},
+					{
+						"question": "I'm actually not doing so great at the moment...",
+						"answer": "Next time, then."
+					},
+					{
+						"question": "Then my stomach wouldn't stop growling in my meeting.",
+						"answer": "Impressive."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "HP +5",
+				"description": "Increases Joker's maximum HP",
+				"entries": [
+					{
+						"question": "And I figured something out! It's this!",
+						"answer": "Making Bento?"
+					},
+					{
+						"question": "Do you want it?",
+						"answer": "Any"
+					},
+					{
+						"question": "Let's dig in!",
+						"answer": "Is that all for you?"
+					},
+					{
+						"question": "You okay? Your eyes are glazing over...",
+						"answer": "It’s definitely unique."
+					},
+					{
+						"question": "I thought it was so great when I presented it to you...",
+						"answer": "Any"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Chaines Hook",
+				"description": "Allows you to use the grappling hook to ambush enemies from a distance",
+				"entries": [
+					{
+						"question": "I've been wanting to come here for a while...",
+						"answer": "You're looking to buy?"
+					},
+					{
+						"question": "You look so cool! What do you think?",
+						"answer": "A pretty modern look."
+					},
+					{
+						"question": "Would you mind poking around with me for a bit longer?",
+						"answer": "Of course."
+					},
+					{
+						"question": "It just seems perfect for my dad somehow.",
+						"answer": "Good choice."
+					},
+					{
+						"question": "I wasn't even me anymore.",
+						"answer": "Everyone deals with that."
+					},
+					{
+						"question": "He was so happy with them!",
+						"answer": "I’m glad to hear that."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "HP +5",
+				"description": "Increases Joker's maximum HP",
+				"entries": [
+					{
+						"question": "Probably didn't expect to be meeting me at the batting center, huh?",
+						"answer": "It’s a surprise, yeah."
+					},
+					{
+						"question": "What do you think? That could work, right?",
+						"answer": "Go ahead. I’ll watch."
+					},
+					{
+						"question": "I did it, Senpai! I hit the ball!",
+						"answer": "Any"
+					},
+					{
+						"question": "I'd forgotten how it felt to work that hard on someone else's behalf",
+						"answer": "That’s important."
+					},
+					{
+						"question": "Was there anything else you wanted to try, Senpai?",
+						"answer": "Any"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Fitness Talk",
+				"description": "Kasumi may step in to rescue a failed demon negotiation",
+				"entries": [
+					{
+						"question": "This is the real me, I guess.",
+						"answer": "Any"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Harisen Recovery",
+				"description": "Chance to cure status ailments on party members",
+				"entries": [
+					{
+						"question": "Siiigh...",
+						"answer": "You okay?"
+					},
+					{
+						"question": "I'm just worthless after all…",
+						"answer": "That isn’t true."
+					},
+					{
+						"question": "Senpai, will you go out with me again?",
+						"answer": "Any"
+					},
+					{
+						"question": "You might be just as tough as Kasumi... Amazing.",
+						"answer": "I love a good challenge."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Endure",
+				"description": "Chance to withstand a fatal blow with 1 HP remaining",
+				"entries": [
+					{
+						"question": "Well, I guess it's important to have a balanced diet...?",
+						"answer": "Walk up to Sumire"
+					},
+					{
+						"question": "I don't even know if I'm worth showing off...",
+						"answer": "I’m here for you."
+					},
+					{
+						"question": "Um, what do you think?",
+						"answer": "I'm in love."
+					},
+					{
+						"question": "I don't think that'd change how I feel about it.",
+						"answer": "Sounds like progress."
+					},
+					{
+						"question": "B-By the way, where do you like to get your clothes from, Senpai?",
+						"answer": "Any"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "HP +5",
+				"description": "Increases Joker's maximum HP",
+				"entries": [
+					{
+						"question": "I hope it's not too much trouble.",
+						"answer": "Any"
+					},
+					{
+						"question": "I’d like you to be there when I do... Is that okay?",
+						"answer": "Any"
+					},
+					{
+						"question": "I talked about wanting you to see me...",
+						"answer": "Of course I do."
+					},
+					{
+						"question": "I hope I still helped Kasumi somehow...",
+						"answer": "Any"
+					},
+					{
+						"question": "There's something I need to tell you, Senpai!",
+						"answer": "Go ahead."
+					},
+					{
+						"question": "The last thing I want to do is make you uncomfortable...",
+						"answer": "I love you too."
+					}
+				]
+			}
+		}
+	},
+	"Takuto Maruki": {
+		"unlockDate": "May 13th",
+		"arcana": "Councillor",
+		"ranks": {
+			"2": {
+				"unlocks": "Detox X",
+				"description": "Chance to cure status ailments on Joker immediately",
+				"entries": [
+					{
+						"question": "Welcome! Thank you for coming.",
+						"answer": "Any"
+					},
+					{
+						"question": "Maybe that's a little weird for you to hear from a guy...",
+						"answer": "But it all sounds right."
+					},
+					{
+						"question": "You can have them! They're yours!",
+						"answer": "Well, okay."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Flow",
+				"description": "Chance to receive Charge and Concentrate at the start of battle",
+				"entries": [
+					{
+						"question": "I'm glad the ones who came to me have taken some steps...",
+						"answer": "Any"
+					},
+					{
+						"question": "You remember how I asked you to help me with my research?",
+						"answer": "Any"
+					},
+					{
+						"question": "Do you have any thoughts on this kind of pain?",
+						"answer": "That one seems necessary."
+					},
+					{
+						"question": "You helped me realize that purpose again. Thank you.",
+						"answer": "Any"
+					},
+					{
+						"question": "I thought I'd thank you once again for your help earlier.",
+						"answer": "Good work over there."
+					}
+				]
+			},
+			"4": {
+				"unlocks": "SP +5",
+				"description": "Increases Joker's maximum SP",
+				"entries": [
+					{
+						"question": "I had no idea a cat's claws were so sharp...",
+						"answer": "I know, right…?"
+					},
+					{
+						"question": "...like putting antibiotics on a scratch.",
+						"answer": "Is that what you’re researching?"
+					},
+					{
+						"question": "We'll even be able to perform more effective treatment for those...",
+						"answer": "Any"
+					},
+					{
+						"question": "I'm on a shoestring budget, so I wouldn't be able to pay you!",
+						"answer": "That sounds fun."
+					},
+					{
+						"question": "Is your schoolwork being affected?",
+						"answer": "Any"
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Mindfulness",
+				"description": "Chance to restore Joker's SP when it is low",
+				"entries": [
+					{
+						"question": "Go ahead, enjoy!",
+						"answer": "This looks great"
+					},
+					{
+						"question": "You can see this law in action just by observing...",
+						"answer": "You know, you’re right."
+					},
+					{
+						"question": "Your unconscious desires may have changed the taste of the cookie?",
+						"answer": "Any"
+					},
+					{
+						"question": "It would have been a subjective truth of your reality.",
+						"answer": "I guess so."
+					},
+					{
+						"question": "It ended up being another big academic discussion...",
+						"answer": "Any"
+					}
+				]
+			},
+			"6": {
+				"unlocks": "SP +5",
+				"description": "Increases Joker's maximum SP",
+				"entries": [
+					{
+						"question": "This is fantastic.",
+						"answer": "Any"
+					},
+					{
+						"question": "I'd appreciate if you'd help me talk through this again.",
+						"answer": "I can do that."
+					},
+					{
+						"question": "I don't think that would be enough to finally beat trauma.",
+						"answer": "So give up."
+					},
+					{
+						"question": "Sorry for... hah... rushing out... so suddenly... earlier...",
+						"answer": "Any"
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Quick Flow",
+				"description": "Increases the success rate of Flow",
+				"entries": [
+					{
+						"question": "I guess I've taken an academic interest in them.",
+						"answer": "You really are dedicated."
+					},
+					{
+						"question": "How is such a feat even possible? Any ideas, Joker?",
+						"answer": "Any"
+					},
+					{
+						"question": "Does that remind you of anything?",
+						"answer": "The change of heart..."
+					},
+					{
+						"question": "You think I'm getting anywhere here?",
+						"answer": "Any"
+					}
+				]
+			},
+			"8": {
+				"unlocks": "SP +5",
+				"description": "Increases Joker's maximum SP",
+				"entries": [
+					{
+						"question": "I know it's been a while since you've had one, too!",
+						"answer": "What do you mean?"
+					},
+					{
+						"question": "I'd like to take you to that buffet, as my way of thanking you.",
+						"answer": "Ooh, really?"
+					},
+					{
+						"question": "No holding back! Eat as much as you please!",
+						"answer": "Thanks for the food!"
+					},
+					{
+						"question": "Oh, he's uhhh... how do I put it?",
+						"answer": "We’ve made a deal."
+					},
+					{
+						"question": "My paper is finally almost finished.",
+						"answer": "Any"
+					},
+					{
+						"question": "Don't you wanna congratulate him too?",
+						"answer": "Any"
+					},
+					{
+						"question": "Maybe it's because he knows I'm a little careless, though.",
+						"answer": "He’s a good friend."
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Detox DX",
+				"description": "Increases the success rate of Detox X",
+				"entries": [
+					{
+						"question": "I think this’ll probably be the last time I come to you...",
+						"answer": "Kind of sad..."
+					}
+				]
+			}
+		}
+	},
+	"Ichiko Ohya": {
+		"unlockDate": "June 23rd",
+		"arcana": "Devil",
+		"ranks": {
+			"2": {
+				"unlocks": "Rumor-filled Scoop",
+				"description": "Lowers Palace security level increases and starting level",
+				"entries": [
+					{
+						"question": "...You have any photos or videos of it?",
+						"answer": "Mishima might..."
+					},
+					{
+						"question": "Why are you coming to a bar if you can't even drink alcohol?",
+						"answer": "It's for the article."
+					}
+				]
+			},
+			"3": {
+				"unlocks": "Charm Up",
+				"description": "Increases your Charm social stat",
+				"entries": [
+					{
+						"question": "I have a theory that they're all minors...",
+						"answer": "You shouldn't make assumptions."
+					},
+					{
+						"question": "That's why I can't quit... and why I'll never give up.",
+						"answer": "Was she falsely accused?"
+					}
+				]
+			},
+			"4": {
+				"unlocks": "Shocking Scoop",
+				"description": "Further lowers Palace security level increases",
+				"entries": [
+					{
+						"question": "We're totally dating, aren't we, sweetie?",
+						"answer": "Of course we are."
+					},
+					{
+						"question": "I'll write you a solid article on the Phantom Thieves.",
+						"answer": "Leave it to me."
+					}
+				]
+			},
+			"5": {
+				"unlocks": "Charm Up",
+				"description": "Increases your Charm social stat",
+				"entries": [
+					{
+						"question": "I'm going to prove Kayo's innocence though.",
+						"answer": "That's unforgivable."
+					},
+					{
+						"question": "For me digging up your records and such without asking...",
+						"answer": "I don't mind it."
+					}
+				]
+			},
+			"6": {
+				"unlocks": "Charm Up",
+				"description": "Increases your Charm social stat",
+				"entries": [
+					{
+						"question": "Ugh, my chief's such a shithead...",
+						"answer": "He must not like you."
+					},
+					{
+						"question": "Maybe Kayo really was the culprit.",
+						"answer": "You should trust in her."
+					},
+					{
+						"question": "Dammit, that incident is all my fault...",
+						"answer": "That's the spirit."
+					},
+					{
+						"question": "I'm only able to meet my insane quota because of the info...",
+						"answer": "I'll dig up some more for you."
+					}
+				]
+			},
+			"7": {
+				"unlocks": "Outrageous Scoop",
+				"description": "Palace security level starts at a much lower level",
+				"entries": [
+					{
+						"question": "What should I do? Should I go knock him out?!",
+						"answer": "Any"
+					},
+					{
+						"question": "I wish I was better at controlling my emotions. Like you are.",
+						"answer": "You're charming as you are."
+					},
+					{
+						"question": "I'll do whatever it takes to find her...!",
+						"answer": "That's the spirit."
+					}
+				]
+			},
+			"8": {
+				"unlocks": "Charm Up",
+				"description": "Increases your Charm social stat",
+				"entries": [
+					{
+						"question": "Say something.",
+						"answer": "You seem tired."
+					},
+					{
+						"question": "Not just about Kayo's current state... but about what happened...",
+						"answer": "That's not like you."
+					},
+					{
+						"question": "From now on, I'm always gonna chase the truth.",
+						"answer": "Any"
+					}
+				]
+			},
+			"9": {
+				"unlocks": "Nothing",
+				"description": "Nothing",
+				"entries": [
+					{
+						"question": "I'd get crushed if I tried to take them on without being prepared",
+						"answer": "You're not giving up, are you?"
+					},
+					{
+						"question": "I'm sure I'll get targeted... you shouldn't come here again.",
+						"answer": "I can't leave you."
+					},
+					{
+						"question": "That couple act...",
+						"answer": "I took it seriously."
+					},
+					{
+						"question": "Choice 6 (After Romance choice)",
+						"answer": "I love you, Ichiko."
+					},
+					{
+						"question": "Phone Call",
+						"answer": "Any"
+					}
+				]
+			}
+		}
+	}
+}
