@@ -1,4 +1,4 @@
-import { state } from "/js/state.js"
+import { state } from "./js/state.js"
 import "./js/confidants.js";
 import "./js/ui_listeners.js";
 import bar from "./js/scrollbar_v2.js";
