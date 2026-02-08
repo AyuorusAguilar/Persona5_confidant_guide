@@ -16,7 +16,7 @@ export default async function generate_content(name){
 	name = name.trim()
 
 	if (!content) {
-		const response = await fetch('/js/confidants-conversations.json')
+		const response = await fetch('js/confidants-conversations.json')
 		content = await response.json()
 	}
 
