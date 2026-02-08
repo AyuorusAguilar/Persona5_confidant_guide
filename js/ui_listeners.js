@@ -64,24 +64,26 @@ tarjetas.forEach(tarjeta => {
 	})
 	tarjeta.addEventListener('click', ()=>{
 		// Manejar el pointer
-		if (lastSelected != undefined) {
+		if (lastSelected != undefined && lastSelected != tarjeta) {
 			affectedClasses.forEach(clase => {
 				if (clase == '.confidant-name') return;
 				lastSelected.querySelector(clase).classList.remove('selected');
 			});
 		}
-		
-		lastSelected = tarjeta;
-		
-		affectedClasses.forEach(clase => {
-			tarjeta.querySelector(clase).classList.add('selected');
-		});
-		uiClick.currentTime = 0;
-		uiClick.play();
+		if (lastSelected != tarjeta) {
 
-		const nombre = tarjeta.querySelector('.confidant-name').textContent.trim();
-		toggleHeaderButton.classList.remove('disable');
-		refrescar(nombre);
+			lastSelected = tarjeta;
+			
+			affectedClasses.forEach(clase => {
+				tarjeta.querySelector(clase).classList.add('selected');
+			});
+			uiClick.currentTime = 0;
+			uiClick.play();
+			
+			const nombre = tarjeta.querySelector('.confidant-name').textContent.trim();
+			toggleHeaderButton.classList.remove('disable');
+			refrescar(nombre);
+		}
 	})
 });
 
